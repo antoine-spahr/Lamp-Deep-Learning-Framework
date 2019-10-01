@@ -10,6 +10,6 @@ Lamp support the training of a MLP by batches.
 ![Lamp Structure](Report/Figures/lamp_structure.png)
 
 # Toy example
-To test the lamp framework a toy example is made. The goal is to predict wether a point in 2D from [0,1;0,1] lays inside a circle of diameter 1/sqrt(2\pi).
+To test the lamp framework a toy example is made. The goal is to predict wether a point in 2D from [0,1;0,1] lays inside a circle of diameter 1/sqrt(2pi) centered on the origin.
 
 ![Toy example](Report/Figures/ex_outputs.png)
